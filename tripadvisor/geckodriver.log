@@ -540,3 +540,9 @@ Full stack:
 1507900578228	Marionette	INFO	Listening on port 33744
 1507900578373	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************

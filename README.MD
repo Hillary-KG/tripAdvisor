@@ -10,3 +10,7 @@ A webscrapper that obtains data from trip advisor
 2. pip install -r requirements.txt
 
 ```
+## Running 
+```
+scrapy crawl reviews -o reviews.json
+```

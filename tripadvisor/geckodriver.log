@@ -1,0 +1,542 @@
+1507797433527	geckodriver	INFO	Listening on 127.0.0.1:50758
+1507797434468	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AIXyhWbvv3WX
+1507797434473	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507797434510	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45955
+1507797446490	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507797460292	Marionette	INFO	Listening on port 45955
+1507797461431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507797811037	geckodriver	INFO	Listening on 127.0.0.1:33707
+1507797812009	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PWv6vzR7zuB5
+1507797812014	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507797812032	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43649
+1507797820573	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507797832475	Marionette	INFO	Listening on port 43649
+1507797833497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507798986105	Marionette	INFO	Ceased listening
+1507798995008	geckodriver	INFO	Listening on 127.0.0.1:58442
+1507798995922	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nOczIfYPn9ov
+1507798995926	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507798995947	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42296
+1507799003239	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507799014616	Marionette	INFO	Listening on port 42296
+1507799015551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507799039935	geckodriver	INFO	Listening on 127.0.0.1:36631
+1507799040922	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9OG2OnJk5OMV
+1507799040927	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507799040943	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39742
+1507799044470	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507799055409	Marionette	INFO	Listening on port 39742
+1507799056360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507799092997	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1507799133070	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507799134104	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507799174188	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507819377223	geckodriver	INFO	Listening on 127.0.0.1:38717
+1507819378128	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oq4FyHHTENDr
+1507819378130	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507819378185	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37329
+1507819383666	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507819389604	Marionette	INFO	Listening on port 37329
+1507819389968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507819538327	geckodriver	INFO	Listening on 127.0.0.1:35633
+1507819539326	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dKq9NYMN8DEr
+1507819539327	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507819539333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34571
+1507819540203	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507819544257	Marionette	INFO	Listening on port 34571
+1507819544439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507819677635	geckodriver	INFO	Listening on 127.0.0.1:56873
+1507819678633	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.r1Tb2B5MsasK
+1507819678636	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507819678641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42567
+1507819679535	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507819683509	Marionette	INFO	Listening on port 42567
+1507819683593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507819718070	geckodriver	INFO	Listening on 127.0.0.1:46851
+1507819719068	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JwocEtsLAszh
+1507819719071	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507819719079	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39699
+1507819719948	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507819724575	Marionette	INFO	Listening on port 39699
+1507819724945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507819849033	geckodriver	INFO	Listening on 127.0.0.1:47680
+1507819849077	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3nef6MNuHy35
+1507819849134	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507819849160	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38077
+1507819852055	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507819856668	Marionette	INFO	Listening on port 38077
+1507819856966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507820170411	Marionette	INFO	Ceased listening
+1507820170830	Marionette	INFO	Ceased listening
+1507820170917	Marionette	INFO	Ceased listening
+1507820171092	Marionette	INFO	Ceased listening
+1507820209446	geckodriver	INFO	Listening on 127.0.0.1:47978
+1507820210442	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RlrlSz6GOGjI
+1507820210445	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507820210449	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35685
+1507820211745	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507820215818	Marionette	INFO	Listening on port 35685
+1507820215897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507820275329	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1507820275345	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507820337970	geckodriver	INFO	Listening on 127.0.0.1:57639
+1507820338967	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XM3hQhZrzZkS
+1507820338969	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507820338977	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45309
+1507820339872	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507820344323	Marionette	INFO	Listening on port 45309
+1507820344500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507820701820	Marionette	INFO	Ceased listening
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507820899678	geckodriver	INFO	Listening on 127.0.0.1:51749
+1507820900675	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qEi5JKhh5PWZ
+1507820900677	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507820900681	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34087
+1507820901559	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507820905632	Marionette	INFO	Listening on port 34087
+1507820905800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507821042452	geckodriver	INFO	Listening on 127.0.0.1:42453
+1507821043449	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TXSmdTsew10x
+1507821043451	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507821043454	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43229
+1507821044518	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507821048790	Marionette	INFO	Listening on port 43229
+1507821048917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507822232941	geckodriver	INFO	Listening on 127.0.0.1:33040
+1507822233046	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kGS0cYPSmnqF
+1507822233048	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507822233083	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36814
+1507822238000	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+JavaScript error: chrome://marionette/content/server.js, line 330: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507822315265	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507822316146	Marionette	INFO	Ceased listening
+1507822316413	Marionette	INFO	Ceased listening
+1507822316847	Marionette	INFO	Ceased listening
+1507822317202	Marionette	INFO	Ceased listening
+1507822322768	geckodriver	INFO	Listening on 127.0.0.1:35393
+1507822323811	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5TcLODwk6MLS
+1507822323813	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507822323818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42029
+1507822326220	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507822330666	Marionette	INFO	Listening on port 42029
+1507822331226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507822410042	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1507822450092	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507836317258	Marionette	INFO	Ceased listening
+1507836319337	geckodriver	INFO	Listening on 127.0.0.1:59193
+1507836320345	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6kLACAVlb3ZK
+1507836320346	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507836320350	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33819
+1507836321289	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507836325489	Marionette	INFO	Listening on port 33819
+1507836325650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507836434002	geckodriver	INFO	Listening on 127.0.0.1:58326
+1507836435001	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Kf7cRBPPmjcO
+1507836435005	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507836435010	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43834
+1507836435945	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507836440123	Marionette	INFO	Listening on port 43834
+1507836440219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507836659039	Marionette	INFO	Ceased listening
+1507836659127	Marionette	INFO	Ceased listening
+1507836667449	geckodriver	INFO	Listening on 127.0.0.1:58321
+1507836668444	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GqmFJmRLj2Qe
+1507836668446	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507836668451	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40440
+1507836669301	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507836673319	Marionette	INFO	Listening on port 40440
+1507836673402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507836849369	geckodriver	INFO	Listening on 127.0.0.1:52925
+1507836850364	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wDEl6Jz1iq8x
+1507836850365	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507836850376	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45311
+1507836851234	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507836855399	Marionette	INFO	Listening on port 45311
+1507836855581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507837265171	Marionette	INFO	Ceased listening
+1507837268932	Marionette	INFO	Ceased listening
+1507837276678	geckodriver	INFO	Listening on 127.0.0.1:54442
+1507837277677	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YwoRXCwz7Zz4
+1507837277679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507837277684	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44172
+1507837278556	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507837282584	Marionette	INFO	Listening on port 44172
+1507837282663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1507839756804	geckodriver	INFO	Listening on 127.0.0.1:41829
+1507839757714	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OpEq7BgLGdIJ
+1507839757716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507839757734	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44355
+1507839766813	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507839777091	Marionette	INFO	Listening on port 44355
+1507839778870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507840215941	geckodriver	INFO	Listening on 127.0.0.1:46701
+1507840216882	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ILFmKRrQMNSW
+1507840216883	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507840216906	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46004
+1507840226695	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507840235312	Marionette	INFO	Listening on port 46004
+1507840235533	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507893023425	geckodriver	INFO	Listening on 127.0.0.1:60705
+1507893024319	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kRUIPeARDWJn
+1507893024322	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507893024344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36761
+1507893029469	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507893035186	Marionette	INFO	Listening on port 36761
+1507893035396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507893138635	geckodriver	INFO	Listening on 127.0.0.1:51680
+1507893139633	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sAf6gSlAxIy9
+1507893139635	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507893139639	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46538
+1507893140489	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507893144395	Marionette	INFO	Listening on port 46538
+1507893144572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507893337311	Marionette	INFO	Ceased listening
+1507893350526	Marionette	INFO	Ceased listening
+1507893379411	geckodriver	INFO	Listening on 127.0.0.1:33601
+1507893380408	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Eb1QYdsHFQfX
+1507893380410	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507893380419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46677
+1507893381276	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507893385293	Marionette	INFO	Listening on port 46677
+1507893385379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507893763001	geckodriver	INFO	Listening on 127.0.0.1:33364
+1507893763347	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.l8PcY44eeltN
+1507893763348	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507893763361	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46342
+1507893765262	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507893770033	Marionette	INFO	Listening on port 46342
+1507893770375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507894339751	Marionette	INFO	Ceased listening
+1507894342949	Marionette	INFO	Ceased listening
+1507894353079	geckodriver	INFO	Listening on 127.0.0.1:52303
+1507894353982	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Z4QalaqPnxIk
+1507894353983	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507894354002	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32902
+1507894359255	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507894364430	Marionette	INFO	Listening on port 32902
+1507894364803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507894675378	geckodriver	INFO	Listening on 127.0.0.1:44359
+1507894676413	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dm8LFo1ViHjP
+1507894676415	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507894676416	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34283
+1507894677516	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507894682570	Marionette	INFO	Listening on port 34283
+1507894682694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507895685284	Marionette	INFO	Ceased listening
+1507895688835	Marionette	INFO	Ceased listening
+1507895699821	geckodriver	INFO	Listening on 127.0.0.1:39059
+1507895700737	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mwp2GCNOUG3R
+1507895700738	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507895700762	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41206
+1507895705259	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507895711620	Marionette	INFO	Listening on port 41206
+1507895712596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507895804892	geckodriver	INFO	Listening on 127.0.0.1:43647
+1507895805889	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gUrhlKDyIO8U
+1507895805891	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507895805900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36887
+1507895806845	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507895811048	Marionette	INFO	Listening on port 36887
+1507895811235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/styleSheetsActor8, type getStyleSheets failed
+
+Request stack:
+request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1269:14
+generateRequestMethods/</frontProto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1426:14
+StyleEditorUI.prototype.initialize<@resource://devtools/client/styleeditor/StyleEditorUI.jsm:133:29
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1212:23
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/styleeditor/styleeditor-panel.js:143:7
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/event-emitter.js:194:13
+destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/target.js:608:5
+handleEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/framework/target.js:552:9
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: syncClients@resource://gre/modules/services-common/blocklist-updater.js:71:28
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+this.checkVersions@resource://gre/modules/services-common/blocklist-updater.js:37:10
+notify@resource://gre/components/nsBlocklistService.js:626:7
+TM_notify/<@resource://gre/components/nsUpdateTimerManager.js:218:11
+TM_notify@resource://gre/components/nsUpdateTimerManager.js:263:7
+
+*************************
+1507896317682	Marionette	INFO	Ceased listening
+1507896319765	Marionette	INFO	Ceased listening
+1507896325771	geckodriver	INFO	Listening on 127.0.0.1:40153
+1507896326685	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iAwpvaI7viPq
+1507896326697	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507896326738	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42214
+1507896330897	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507896335548	Marionette	INFO	Listening on port 42214
+1507896335926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507896775280	geckodriver	INFO	Listening on 127.0.0.1:38738
+1507896776274	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.27AYsS3Ecj4U
+1507896776276	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507896776289	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45420
+1507896777189	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507896781192	Marionette	INFO	Listening on port 45420
+1507896781276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507897474083	Marionette	INFO	Ceased listening
+1507897479041	Marionette	INFO	Ceased listening
+1507897608904	geckodriver	INFO	Listening on 127.0.0.1:59529
+1507897609842	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uxpE7EvMWK2X
+1507897609844	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507897609866	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39500
+1507897614916	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507897620195	Marionette	INFO	Listening on port 39500
+1507897620635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507897811037	geckodriver	INFO	Listening on 127.0.0.1:40130
+1507897812045	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LwwIAl6IPHOk
+1507897812048	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507897812063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36370
+1507897813062	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507897817154	Marionette	INFO	Listening on port 36370
+1507897817519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507897990287	geckodriver	INFO	Listening on 127.0.0.1:39398
+1507897990352	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.keqGyZZufNWe
+1507897990377	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507897990387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37564
+1507897993810	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507897999188	Marionette	INFO	Listening on port 37564
+1507897999667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507898331363	Marionette	INFO	Ceased listening
+1507898339273	Marionette	INFO	Ceased listening
+1507898419595	geckodriver	INFO	Listening on 127.0.0.1:36325
+1507898420514	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oUeBBuEbvaGi
+1507898420516	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507898420536	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38618
+1507898425993	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507898432243	Marionette	INFO	Listening on port 38618
+1507898432717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507899419833	Marionette	INFO	Ceased listening
+1507899565673	geckodriver	INFO	Listening on 127.0.0.1:33658
+1507899566605	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.U1BcRjQsNlWM
+1507899566607	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507899566614	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46816
+1507899568508	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507899572881	Marionette	INFO	Listening on port 46816
+1507899572977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507899735576	geckodriver	INFO	Listening on 127.0.0.1:53953
+1507899736575	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Wu0UBwCnceXm
+1507899736577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507899736582	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34715
+1507899738401	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507899745739	Marionette	INFO	Listening on port 34715
+1507899746367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507899904672	Marionette	INFO	Ceased listening
+1507899908254	Marionette	INFO	Ceased listening
+1507899925943	Marionette	INFO	Ceased listening
+1507899942421	geckodriver	INFO	Listening on 127.0.0.1:39374
+1507899942451	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.V1ELTrO809fY
+1507899942452	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507899942473	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43088
+1507899947127	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507899951965	Marionette	INFO	Listening on port 43088
+1507899952050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1507900275410	geckodriver	INFO	Listening on 127.0.0.1:39818
+1507900276488	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.aEnWwFOys6cY
+1507900276489	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507900276498	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34281
+1507900277388	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507900281574	Marionette	INFO	Listening on port 34281
+1507900281657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507900565440	Marionette	INFO	Ceased listening
+1507900568325	Marionette	INFO	Ceased listening
+1507900572097	geckodriver	INFO	Listening on 127.0.0.1:55056
+1507900573178	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.n6Iont52d4re
+1507900573180	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507900573184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33744
+1507900574123	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1507900578228	Marionette	INFO	Listening on port 33744
+1507900578373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.tacdn.com/js3/mootools-c-v23900594016a.js, line 1: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
